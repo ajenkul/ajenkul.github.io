@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b5a78f89-fd4a-4f12-bd7a-6bdfdd2f3e8b" name="Default" comment="update news">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/matterhorn.css" afterPath="$PROJECT_DIR$/css/matterhorn.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ajenkul.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,10 +26,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="matterhorn.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="matterhorn.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/matterhorn.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6025974" vertical-offset="3746" max-vertical-offset="5049">
+            <state vertical-scroll-proportion="0.0" vertical-offset="3746" max-vertical-offset="5049">
               <caret line="234" column="37" selection-start-line="234" selection-start-column="37" selection-end-line="234" selection-end-column="37" />
               <folding />
             </state>
@@ -52,11 +50,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.923077" vertical-offset="3024" max-vertical-offset="3757">
-              <caret line="190" column="51" selection-start-line="190" selection-start-column="51" selection-end-line="190" selection-end-column="51" />
+            <state vertical-scroll-proportion="0.4317549" vertical-offset="3075" max-vertical-offset="3757">
+              <caret line="190" column="60" selection-start-line="190" selection-start-column="60" selection-end-line="190" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -70,9 +68,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/approach.html" />
         <option value="$PROJECT_DIR$/css/matterhorn.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -344,10 +342,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/matterhorn.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.923077" vertical-offset="3024" max-vertical-offset="3757">
-          <caret line="190" column="51" selection-start-line="190" selection-start-column="51" selection-end-line="190" selection-end-column="51" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="3746" max-vertical-offset="5049">
+          <caret line="234" column="37" selection-start-line="234" selection-start-column="37" selection-end-line="234" selection-end-column="37" />
           <folding />
         </state>
       </provider>
@@ -364,10 +362,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/matterhorn.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6025974" vertical-offset="3746" max-vertical-offset="5049">
-          <caret line="234" column="37" selection-start-line="234" selection-start-column="37" selection-end-line="234" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.4317549" vertical-offset="3075" max-vertical-offset="3757">
+          <caret line="190" column="60" selection-start-line="190" selection-start-column="60" selection-end-line="190" selection-end-column="60" />
           <folding />
         </state>
       </provider>
