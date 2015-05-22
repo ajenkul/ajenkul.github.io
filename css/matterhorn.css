@@ -231,6 +231,15 @@ body {
     text-decoration: none;
     color: #67262a;
 }
+.matt-log{
+    background: rgba(82, 255, 43, 0.9);
+    color: #000000;
+    padding: 10px;
+    position: fixed;
+    bottom:0px;
+    right: 0px;
+    z-index: 100;
+}
 /*END STUFF*/
 
 /*BEGIN DETAILS*/
