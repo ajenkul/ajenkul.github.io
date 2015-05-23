@@ -145,7 +145,7 @@ body {
 }
 .manager{
 
-    background: rgba(0, 0, 0, 0.8);
+    background: rgba(0, 0, 0, 0.7);
 }
 .staff{
     background: rgba(65, 46, 40, 0.80);
@@ -290,3 +290,45 @@ body {
     text-align: justify;
 }
 /*END DETAILS*/
+
+/*BEGIN KEY PEOPLE*/
+.key-people-row{
+    background: #1F1F1F;
+    padding-top: 5px;
+    margin-top: 0;
+    border-top: 7px solid #656565;
+}
+.key-people-panel-manager{
+    margin-top: 10px;
+    border: 1px solid #fff;
+    border-radius: 0;
+}
+.key-people-label{
+    position: absolute;
+    display: block;
+    bottom: 0px;
+    /*left:-1%;*/
+    text-align: center;
+    padding: 7px 5px 10px 5px;
+    width: 100%;
+    font-size: 22px;
+    color: #ffffff;
+}
+.key-people-description{
+    color: #ffffff;
+    padding: 5px 15px 5px 15px;
+}
+#key-people-manager{
+    background: #1F1F1F;
+    color: #ffffff;
+    border-radius: 0;
+}
+#key-people-manager h2{
+    vertical-align: middle;
+    font-size: 22px;
+    margin: 0;
+}
+.indent{
+    text-indent: 45px;
+}
+/*END KEY PEOPLE*/
