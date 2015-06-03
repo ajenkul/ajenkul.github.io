@@ -340,7 +340,7 @@ input[type="search"]{
     }
 }
 
-.search-field:focus{
+.search-field:hover{
     background-color:#fff;
     background-image:url('../images/search-icon-active.png');
     border:2px solid #999;

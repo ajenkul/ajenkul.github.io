@@ -16,6 +16,14 @@ app.config(['$routeProvider', '$locationProvider', function ($routeProvider, $lo
             templateUrl: 'template/modules/view-service.html',
             controller: 'serviceController'
         })
+        .when('/blog',{
+            templateUrl: 'template/modules/view-blog.html',
+            controller: 'blogController'
+        })
+        .when('/internships',{
+            templateUrl: 'template/modules/view-internships.html',
+            controller: 'internshipsController'
+        })
         .otherwise({
             templateUrl: 'template/banner.html'
         });
